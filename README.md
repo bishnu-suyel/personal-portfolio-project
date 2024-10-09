@@ -17,4 +17,4 @@ JavaScript, PHP, HTML, CSS
 ## Contact Me
 It contains a contact form where users can contact me, actually it redirects to the mailbox.
 
-You can visit my website in this link https://bis10.github.io/personal-portfolio-project/
+You can visit my website in this link https://bishnu-suyel.github.io/personal-portfolio-project/
