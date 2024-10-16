@@ -14,7 +14,7 @@ To view this project locally:
 
 - Download or clone the repository to your local machine.
 - Open the index.html file in a web browser.
-- Live page:https://bishnu-suyel.github.io/personal-portfolio-project/
+- Live page: https://bishnu-suyel.github.io/personal-portfolio-project/
 
 ## Screenshot
 Here are some screenshots of the application:
