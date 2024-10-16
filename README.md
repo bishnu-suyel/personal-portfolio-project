@@ -1,20 +1,36 @@
-## My Portfolio Project
-Welcome to my portfolio! This repository serves as a showcase of my projects, skills, contact information, and gallery.
+# Personal Portfolio
+## Description
+This is a personal portfolio project built using HTML, CSS, and a bit of JavaScript. It showcases various projects and skills in a simple and responsive design. The portfolio was created to provide a professional online presence.
 
-## Projects
-Projects includes three small projects I did with html, css and javascript.
+## Technologies Used
+Built with:
 
-## About Me
-Includes a brief introduction about myself and my background.
+- HTML
+- CSS
+- JavaScript
 
-## Gallery
-Includes some images that I clicked.
+## Setup and Usage
+To view this project locally:
 
-## Skills
-Here are some of the skills I work with:
-JavaScript, PHP, HTML, CSS
+- Download or clone the repository to your local machine.
+- Open the index.html file in a web browser.
+- Live page:(https://bishnu-suyel.github.io/personal-portfolio-project/)
 
-## Contact Me
-It contains a contact form where users can contact me, actually it redirects to the mailbox.
+## Screenshot
+Here are some screenshots of the application:
 
-You can visit my website in this link https://bishnu-suyel.github.io/personal-portfolio-project/
+| Home Page            | Projects Page                |
+|--------------------------|--------------------------|
+| ![Home Screenshot](/images/home.png) | ![Projects Screenshot](/images/projects.png) |
+
+| Skills Page           | Contact Page      |
+|--------------------------|--------------------------|
+| ![Skills Screenshot](/images/skills.png) | ![Contact Screenshot](/images/contact.png) |
+
+## Sources
+- [GitHub Guides - Mastering Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Make a README](https://www.makeareadme.com/)
+
+## Authors and Acknowledgment
+- [GitHub @bishnu-suyel](https://github.com/bishnu-suyel)
+- [LinkedIn @bishnu-suyel](https://www.linkedin.com/in/bishnu-suyel)
